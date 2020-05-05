@@ -12,4 +12,13 @@ To solve this problem, we need a wide variety of data - people with different he
 1. We use openCV's input tools to capture an image
 2. We then convert the image to greyscale so as to make it usable with openCV library.
 3. Create a region of interest i.e the pair of eyes.
+4.Use CNN classifier to detect wether the eyes are open or not.
+5.Calculate a relative score for the given image as compared to obtained dataset to detect the amount of drowsiness.
+6.If sleepy score is beyond a certain score, raise an alarm for the driver and/or alert the authorities.
 
+## Files
+1. Sleepy-driver-detector.ipynb -> Main file with program
+2. 3 haar cascade files -> Weighted data files(Data-Flair)
+3. CNN file -> CNN program(Data-Flair)
+4. Model.py -> training model for CNN
+4. alarm.wav -> alarm that raises alert
