@@ -23,8 +23,8 @@ To solve this problem, we need a wide variety of data - people with different he
 - If sleepy score is beyond a certain score, raise an alarm for the driver and/or alert the authorities.
 
 ## Files
-1. Sleepy-driver-detector.ipynb -> Main file with program
-2. 3 haar cascade files -> Weighted data files(Data-Flair)
-3. CNN file -> CNN program(Data-Flair)
-4. Model.py -> training model for CNN
-4. alarm.wav -> alarm that raises alert
+- Sleepy-driver-detector.ipynb -> Main file with program
+- 3 haar cascade files -> Weighted data files(Data-Flair)
+- CNN file -> CNN program(Data-Flair)
+- Model.py -> training model for CNN
+- alarm.wav -> alarm that raises alert
