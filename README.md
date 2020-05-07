@@ -9,8 +9,11 @@ To solve this problem, we need a wide variety of data - people with different he
 
 ## Methodology
 (This program uses OpenCV, TensorFlow, Keras and Pygame libraries)
+
 1. We use openCV's input tools to capture an image
+
 2. We then convert the image to greyscale so as to make it usable with openCV library.
+
 3. Create a region of interest i.e the pair of eyes. 
 
 4.Use CNN classifier to detect wether the eyes are open or not.
