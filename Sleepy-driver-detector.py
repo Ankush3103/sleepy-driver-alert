@@ -1,6 +1,6 @@
 #Importing relevant libraries
 
-import Keras.models import load_model
+from Keras.models import load_model
 import numpy as np
 import cv2
 import os
