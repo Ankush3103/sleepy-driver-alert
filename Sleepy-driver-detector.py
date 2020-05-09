@@ -1,10 +1,11 @@
 # Importing relevant libraries
 
-from keras.models import load_model
-import numpy as np
 import cv2
 import os
+from keras.models import load_model
+import numpy as np
 from pygame import mixer
+import time
 
 # Adding alarm to raise alert
 mixer.init()
