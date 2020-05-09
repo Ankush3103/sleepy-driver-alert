@@ -96,7 +96,7 @@ while(True):
 
 	if(score<0):
         	score=0   
-	cv2.putText(frame,'Score:'+str(score),(100,height-20), font, 1,(255,255,255),1,cv2.LINE_AA)
+		cv2.putText(frame,'Score:'+str(score),(100,height-20), font, 1,(255,255,255),1,cv2.LINE_AA)
 
 #if person is very sleepy, high score, eyes closed
 	
