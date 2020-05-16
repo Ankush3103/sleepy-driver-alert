@@ -28,3 +28,6 @@ To solve this problem, we need a wide variety of data - people with different he
 - CNN file -> CNN program(Data-Flair)
 - Model.py -> training model for CNN
 - alarm.wav -> alarm that raises alert
+
+## Issues
+- Main file (sleepy-driver-alert.py) does not run, I'm unable to pinpoint the error. OpenCV is unable to access webcam causing the error.
