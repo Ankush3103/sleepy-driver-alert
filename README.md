@@ -30,4 +30,4 @@ To solve this problem, we need a wide variety of data - people with different he
 - alarm.wav -> alarm that raises alert
 
 ## Issues
-- Main file (sleepy-driver-alert.py) does not run, I'm unable to pinpoint the error. OpenCV is unable to access webcam causing the error.
+- Main file (sleepy-driver-alert.py) does not run -- issues with openCV rectangle function and on deleting that all opencv functions are throwing an error.
