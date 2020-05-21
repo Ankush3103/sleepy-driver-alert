@@ -33,7 +33,7 @@ To solve this problem, we need a wide variety of data - people with different he
 - run the main file;<br>
     <code>python path/sleepy-driver-detector.py run</code>
     or
-    <code>python path/alter_external_method.py</code>
+    <code>python path/alter_external_method.py run</code>
     
 - Make sure you have the correct webcam permissions enabled(trust me i spent a lot of time trying to debug something when the actual issue was that my IDE did not have access to my webcam.)
 
