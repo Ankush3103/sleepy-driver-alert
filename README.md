@@ -41,10 +41,8 @@ To solve this problem, we need a wide variety of data - people with different he
 
 - Here's how the window looks (Don't mind my hair, i just trimmed them on my own like a week back.)
 
-*open*
-![open](https://github.com/Ankush3103/sleepy-driver-alert/blob/master/open_not_sleep.png)
-*closed*
-![closed](https://github.com/Ankush3103/sleepy-driver-alert/blob/master/closed_sleep.png)
+Pics removed.
+
 
 ## Issues
 
