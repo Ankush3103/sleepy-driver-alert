@@ -2,9 +2,13 @@
 
 import cv2
 import os
-import tensorflow
+
+#keras uses tensorflow as backend so need to import both
+import tensorflow 
 from keras.models import load_model
 import numpy as np
+
+#for display and alarm
 import pygame
 import time
 
@@ -41,11 +45,12 @@ rpred = [99]
 #
 lpred = [99]
 
-#
+# main loop
 
-#
+#infinite loop used to capture each frame till termination
+
 while (True):
-    frame = cap.read()
+    frame = cap.read() #reads each frame
     height, width = frame.shape[:2]
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
