@@ -1,5 +1,5 @@
 # Sleepy Driver Alert - A Deep Learning car safety project
-![Driver sleeping in a Tesla](https://postmediadriving.files.wordpress.com/2019/01/tesla-sleeper.jpg)
+![Driver sleeping in a Tesla](https://cdn.arstechnica.net/wp-content/uploads/2019/09/sleeping_driver-800x607.png)
 
 ## Objective
 A huge number of car accidents take place because the driver slips into a slumber and looses control of the car. One way to prevent such mishaps is using a deep learning program with convolutional neural networks to detect if the driver is feeling sleepy based on his or her eye movement.
