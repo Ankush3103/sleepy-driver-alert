@@ -46,4 +46,4 @@ Pics removed.
 
 ## Issues
 
-- Main file (sleepy-driver-alert.py) does not run -- issues with openCV rectangle function and on deleting that all opencv functions are throwing an error.
+- Main file (sleepy-driver-alert.py) does not run -- issues with openCV rectangle function. [Resolved]
