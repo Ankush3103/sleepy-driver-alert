@@ -116,7 +116,7 @@ while (True):
 
     # if person is very sleepy, high score ==> eyes closed
 
-    if (score > 15):
+    if (score > 12):
         
         cv2.imwrites(os.path.join(path, 'image.jpg'), frame) #saves frame in which driver is sleeping
         
@@ -126,7 +126,7 @@ while (True):
             pass
 
         #increases thickness of rectanglular boundary to caution driver                                 
-        if (dep < 16):
+        if (dep < 20):
             dep = dep + 2
 
         else:
