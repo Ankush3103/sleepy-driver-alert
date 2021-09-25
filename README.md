@@ -1,4 +1,4 @@
-# Sleepy Driver Alert - A Deep Learning car safety project
+# Sleepy Driver Alert - A Computer vision car safety project
 ![Driver sleeping in a Tesla](https://cdn.arstechnica.net/wp-content/uploads/2019/09/sleeping_driver-800x607.png)
 
 ## Objective
