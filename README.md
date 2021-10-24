@@ -35,15 +35,9 @@ To solve this problem, we need a wide variety of data - people with different he
     or
     <code>python path/alter_external_method.py run</code>
     
-- Make sure you have the correct webcam permissions enabled(trust me i spent a lot of time trying to debug something when the actual issue was that my IDE did not have access to my webcam.)
+- Make sure you have the correct webcam permissions enabled (trust me i spent a lot of time trying to debug something when the actual issue was that my IDE did not have access to my webcam.)
 
 - And finally, don't sleep while driving like come on.
-
-- Here's how the window looks (Don't mind my hair, i just trimmed them on my own like a week back.)
-
-Pics removed.
-
-
 ## Issues
 
 - Main file (sleepy-driver-alert.py) does not run -- issues with openCV rectangle function. [Resolved]
